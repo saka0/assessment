@@ -49,7 +49,7 @@
         if (event.keyCode === 13) {
             assessmentButton.onclick();
         }
-        };
+    };
 
     const answers = [
         '{userName}のいいところは声です。{userName}の特徴的な声はみなを惹きつけ、心に残ります。',
